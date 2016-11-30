@@ -10,6 +10,6 @@ var HelloWorld = React.createClass({
 });
 
 ReactDOM.render(
-  <HelloWorld greetTarget='React in action!'/>,
+  <HelloWorld greetTarget='React n53 action!'/>,
   document.getElementById('container')
 );
